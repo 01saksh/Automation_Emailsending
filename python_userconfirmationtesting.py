@@ -64,6 +64,6 @@ def automate_email_sending(file_path):
 
 
 # Example usage: Run the script immediately
-excel_file_path = "C:\\Users\\ANAROCK\\AppData\\Local\\Programs\\Python\\Python312\\Automation_Codes\\Python_userconfirmationtesting.xlsx"
+excel_file_path = "C:\\Users\\Please provdide your location\\Python_userconfirmationtesting.xlsx"
 automate_email_sending(excel_file_path)
 
